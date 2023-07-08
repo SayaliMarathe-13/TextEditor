@@ -1,0 +1,53 @@
+only one element shouold returned
+otherwise use <></> called as "jsx fragment"
+
+jsx props and states
+javascript promises, arrow Functions, objects and callback functions 
+
+You should either use "quotes (for string values)" or curly "braces (for expressions)",
+ but not both in the same attribute.
+
+ about hooks:
+ In class based components we can use this keyword but in function based components we have to use the hooks
+ concept which is introduceds newly
+
+ $0 : it is a element in chrome which is used to display selected element
+ css in js : element.style.property(BackgroundColor)///// 
+
+In jsx there are 2 components 
+1) Function based which are popularly used over the world
+2) Class based components which are agged
+
+javascript exports : 2 types
+1) named exports
+2) default export
+
+
+
+in jsx :
+class in html is replaced with "classname"
+and for is replaced with "htmlFor"
+use camelcases here
+
+In jsx,
+curly brackets are considered as a javascript
+
+
+"babel" compile the jsx
+
+
+
+first step:
+1) npx create-react-app myapp
+second step:
+2) npm start
+Third step:
+3) npm install react-router-dom@5.2.0
+
+
+steps for react-router-dom
+1) npm install react-router-dom@5.2.0
+2) replace navabr's "href" with to and a with "Link"
+
+CLS :
+commulative layout shift
